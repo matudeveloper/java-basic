@@ -1,5 +1,5 @@
 package week7;
-
+/*
 public class Dictionary {
     HashMap<String, String> dictionary;
 
@@ -34,3 +34,4 @@ public class Dictionary {
         return transList;
     }
 }
+*/
